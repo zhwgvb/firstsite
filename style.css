@@ -51,11 +51,8 @@ table {
 /* efvdefvefrvrvrferverwferferfreerer */
 
 .form{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: 100vh;
+  margin-bottom:40%;
+  margin-left:50%;
 }
 .yes_inp,.no_inp{
     width: 50px;
